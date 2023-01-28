@@ -1,4 +1,4 @@
-# Sider navigation
+# Slider navigation
 
 ## This is what it looks like after launch:
 
